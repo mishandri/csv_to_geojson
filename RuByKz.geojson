@@ -5,7 +5,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Бурятия",
+        "name": "Республика Бурятия",
         "cartodb_id": 10,
         "created_at": "2013-12-04T04:23:51+0100",
         "updated_at": "2013-12-04T08:04:02+0100",
@@ -15409,7 +15409,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Тыва",
+        "name": "Республика Тыва",
         "cartodb_id": 76,
         "created_at": "2013-12-04T04:23:51+0100",
         "updated_at": "2013-12-04T04:32:59+0100",
@@ -17754,11 +17754,11 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Ханты-Мансийский автономный округ - Югра",
+        "name": "Ханты-Мансийский автономный округ",
         "cartodb_id": 71,
         "created_at": "2013-12-04T04:23:51+0100",
         "updated_at": "2013-12-04T04:33:44+0100",
-        "name_latin": "Khanty–Mansi Autonomous Okrug – Yugra"
+        "name_latin": "Khanty–Mansi Autonomous Okrug"
       },
       "geometry": {
         "type": "Polygon",
@@ -32691,7 +32691,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Татарстан",
+        "name": "Республика Татарстан",
         "cartodb_id": 50,
         "created_at": "2013-12-04T04:23:51+0100",
         "updated_at": "2013-12-04T08:10:49+0100",
@@ -38254,7 +38254,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Марий Эл",
+        "name": "Республика Марий Эл",
         "cartodb_id": 60,
         "created_at": "2013-12-04T04:23:51+0100",
         "updated_at": "2013-12-04T08:13:50+0100",
@@ -40685,7 +40685,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Чувашия",
+        "name": "Республика Чувашия",
         "cartodb_id": 49,
         "created_at": "2013-12-04T04:23:51+0100",
         "updated_at": "2013-12-04T08:15:36+0100",
@@ -53527,7 +53527,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Алтай",
+        "name": "Республика Алтай",
         "cartodb_id": 77,
         "created_at": "2013-12-04T04:23:51+0100",
         "updated_at": "2013-12-04T04:32:52+0100",
@@ -92752,7 +92752,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Удмуртская республика",
+        "name": "Республика Удмуртия",
         "cartodb_id": 59,
         "created_at": "2013-12-04T04:23:51+0100",
         "updated_at": "2013-12-04T08:13:59+0100",
@@ -95664,7 +95664,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Башкортостан",
+        "name": "Республика Башкортостан",
         "cartodb_id": 61,
         "created_at": "2013-12-04T04:23:51+0100",
         "updated_at": "2013-12-04T08:17:23+0100",
